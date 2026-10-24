@@ -90,12 +90,12 @@ public partial class @DiceControls: IInputActionCollection2, IDisposable
     ""maps"": [
         {
             ""name"": ""Gameplay"",
-            ""id"": ""e960a1ed-d3ea-4b5e-b20a-4e12cd71618f"",
+            ""id"": ""aba38195-46b3-4863-bf48-484d6d1bab55"",
             ""actions"": [
                 {
                     ""name"": ""Throw"",
                     ""type"": ""Button"",
-                    ""id"": ""e889ebd2-b59b-4256-b62b-3344e75de44a"",
+                    ""id"": ""43c89aca-9d8b-48e2-8563-679c9f6b2b83"",
                     ""expectedControlType"": """",
                     ""processors"": """",
                     ""interactions"": """",
@@ -105,7 +105,7 @@ public partial class @DiceControls: IInputActionCollection2, IDisposable
             ""bindings"": [
                 {
                     ""name"": """",
-                    ""id"": ""0bfcd38a-19d3-4c40-bfe4-deb2a5c69689"",
+                    ""id"": ""14cdd867-7bc4-489a-a721-e6d5b28eeaa6"",
                     ""path"": ""<Keyboard>/space"",
                     ""interactions"": """",
                     ""processors"": """",

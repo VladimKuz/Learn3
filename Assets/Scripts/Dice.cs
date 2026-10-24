@@ -8,7 +8,7 @@ public class Dice : MonoBehaviour
     public int diceResult = 0;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
 
-    private void Start()
+    private void Awake()
     {
         rb = GetComponent<Rigidbody>();
     }
@@ -54,4 +54,6 @@ public class Dice : MonoBehaviour
     {
     return isRolling;
     }
+
+    
 }
